@@ -19,12 +19,12 @@ Clone the repository to your local machine. Open bash and navigate into the root
 
 Use the following API endpoints:
 
-/api/users
-/api/users/:userId
+/api/users\
+/api/users/:userId\
 /api/users/:userId/friends/:friendId
 
-/api/thoughts
-/api/thoughts/:thoughtId
+/api/thoughts\
+/api/thoughts/:thoughtId\
 /api/thoughts/:thoughtId/reactions
 
 ![Screenshot](https://i.imgur.com/AAldu7q.jpg)
