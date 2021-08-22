@@ -27,7 +27,7 @@ Use the following API endpoints:
 /api/thoughts/:thoughtId
 /api/thoughts/:thoughtId/reactions
 
-![Screenshot]()
+![Screenshot](https://i.imgur.com/AAldu7q.jpg)
 
 ### [Video]()
 
