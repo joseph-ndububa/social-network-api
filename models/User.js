@@ -35,13 +35,12 @@ const UserSchema = new Schema(
     {
         toJSON: {
             virtuals: true,
-            getters: true
         },
     }
 );
 
 // get total count of friends
-PizzaSchema.virtual('friendCount').get(function () {
+UserSchema.virtual('friendCount').get(function () {
     return this.friends.length;
 });
 
