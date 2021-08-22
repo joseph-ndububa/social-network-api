@@ -29,7 +29,7 @@ Use the following API endpoints:
 
 ![Screenshot](https://i.imgur.com/AAldu7q.jpg)
 
-### [Video]()
+### [Video](https://drive.google.com/file/d/1wL3dCSgqptmCa3_nCDwyuQ-fafBgMHFV/view)
 
 ## Questions
 
